@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+-<contentList date="26/03/2021 01:10">
+
+<content version="1" contentuid="hb046fa66ge7b1g438eg83d0g3530e26caaec">Prestidigitation</content>
+<content version="1" contentuid="h3188ca51g2423g4f00gb01cgaf693ee3bdd2">Prestidigitation: Snuff</content>
+<content version="1" contentuid="h79a453abge5e4g4e26g94d2g966769d52c3e">Prestidigitation: Ignite</content>
+<content version="1" contentuid="he1b3f989ge6b1g43d9g8c81g926974d53b6b">Prestidigitation: Clean</content>
+
+
+<content version="1" contentuid="he280a48fg027bg4828ga711g2f2b279d3e93">This spell is a minor magical trick that novice spellcasters use for practice.You create one of the following magical effects within range:</content>
+<content version="1" contentuid="h92b14d5dgf8e3g49e2g90c4gb778ac7419ae">You instantaneously snuff out a candle, a torch, or a small campfire.</content>
+<content version="1" contentuid="hf2d19f82g8bdcg4eaagb98agd191a7d7ce3b">You instantaneously light a candle, a torch, or a small campfire.</content>
+<content version="1" contentuid="hcb817d88g1186g4cd1ga3b5g3b22824ea562">You instantaneously clean  a surface.</content>
+
+</contentList>

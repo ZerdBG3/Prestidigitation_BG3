@@ -1,0 +1,10 @@
+new entry "UND_Prestidigitation_Ring"
+type "Armor"
+using "_Ring"
+data "RootTemplate" "3324ec12-1c95-4eef-ac0d-99375a5ff88e"
+data "ItemGroup" ""
+data "ValueOverride" "620"
+data "Rarity" "Uncommon"
+data "Boosts" "UnlockSpell(Target_Prestidigitation)"
+data "Unique" "1"
+
